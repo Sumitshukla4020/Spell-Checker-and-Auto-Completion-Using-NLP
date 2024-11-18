@@ -17,7 +17,7 @@ This project implements a **Spell Checker** and an **Auto-Complete System** usin
    ---
 
 ## Live Demo
-Try the application live at: [Link](https://spellcheckandautocomplete.streamlit.app/)
+Try the application live at: [Link](https://spell-checker-and-auto-completion-using-nlp-ffsqgzwugik8s5l4pm.streamlit.app/).
   ---
 
 ---
